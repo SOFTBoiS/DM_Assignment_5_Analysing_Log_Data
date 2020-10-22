@@ -1,0 +1,12 @@
+level,system,instance,action,timestamp
+Information,Emil-pc,0,A,00:01
+Information,Emil-pc,0,B,00:03
+Information,Sebastian-pc,1,A,00:05
+Information,Emil-pc,0,C,00:07
+Information,Emil-pc,0,D,00:08
+Information,Emil-pc,2,A,00:09
+Information,Sebastian-pc,1,B,00:10
+Information,Emil-pc,2,B,00:10
+Information,Sebastian-pc,1,C,00:11
+Information,Sebastian-pc,1,D,00:11
+Information,Emil-pc,4,D,00:20
